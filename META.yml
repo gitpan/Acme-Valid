@@ -1,0 +1,13 @@
+abstract: your script will be valid Perl
+author: Mirko Westermeier, C<< <mail at memowe.de> >>
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: perl
+name: Acme-Valid
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  Filter::Simple: 0
+version: 1.00
